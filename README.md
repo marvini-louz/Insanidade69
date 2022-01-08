@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Insanidade69
+- 👀 I’m interested in .Coding
+- 🌱 I’m currently learning C#
+- 📫 How to reach me mvinicius.louza@gmail.com
+- 👾 I`m Jr coder in C# 
+- 💼 My LinkedIn linkedin.com/in/marcelo-vinícius-0a6612220/
