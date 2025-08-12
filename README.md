@@ -1,17 +1,16 @@
 - 👋 Hi, I’m @Insanidade69
 - 👦🏻 My name is Marcelo
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - 📫 How to reach me mvinicius.louza@gmail.com
-- 👾 I'm Jr coder in C# 
-- 💼 My LinkedIn www.linkedin.com/in/marcelo-vinícius-0a6612220/
+- 👾 I'm begginer codder in Python
 
 
 **DISCLAIMER**
 
 pt-br
 
-Para visualizar o código de cada atividade basta acessar a pasta e abrir o arquivo com ".cs" no final.\
+Para visualizar o código de cada atividade basta acessar a pasta e abrir o arquivo com ".py" no final.\
 Caso deseja obter a/o solução/projeto completo basta baixar o arquivo ".zip".
 
 **IMPORTANTE**\
@@ -19,7 +18,7 @@ Caso deseja obter a/o solução/projeto completo basta baixar o arquivo ".zip".
 
 en-us
 
-To see the code of any activity just being open the path and open the archive ".cs".\
+To see the code of any activity just being open the path and open the archive ".py".\
 If u want get the solutions/projects just being download the archive ".zip".
 
 **IMPORTANT**\
